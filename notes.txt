@@ -1,0 +1,8 @@
+-> Uuid for unique ids
+-> react-router-dom
+-> react-hot-toast for notification
+->react-avatar for avatar
+
+--> code mirror version 5
+
+--> Express, socket.io, socket.io-client
